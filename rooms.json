@@ -1,0 +1,9 @@
+{
+  "hotelName": "Parbhani Grand Hotel",
+  "rooms": [
+    { "id": 101, "type": "Deluxe", "price": 2500, "available": 5, "amenities": ["AC", "WiFi", "TV", "Breakfast"] },
+    { "id": 102, "type": "Super Deluxe", "price": 3500, "available": 3, "amenities": ["AC", "WiFi", "TV", "Breakfast", "Mini Bar"] },
+    { "id": 103, "type": "Suite", "price": 5500, "available": 2, "amenities": ["AC", "WiFi", "TV", "Breakfast", "Jacuzzi", "Balcony"] }
+  ],
+  "contact": { "phone": "+91 98765 43210", "email": "booking@parbhanigrand.com", "address": "Parbhani, Maharashtra" }
+}
