@@ -11,7 +11,7 @@ const TOKEN = process.env.WHATSAPP_TOKEN;
 const VERIFY = process.env.VERIFY_TOKEN;
 
 const MANAGER = process.env.MANAGER_NUMBER;
-const CHEF = process.env.CHEF_NUMBER;
+//const CHEF = process.env.CHEF_NUMBER;
 
 const MERCHANT_UPI =
   process.env.MERCHANT_UPI_ID || "rushikeshphutane1@ybl";
